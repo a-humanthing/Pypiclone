@@ -1,0 +1,48 @@
+.container3
+{
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.logo
+{
+    height: 6rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    align-items: flex-end;
+}
+.mainsection
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.section
+{
+    height: 15rem;
+    width: 20%;
+    background-color: aqua;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.secondbottom
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 11rem;
+    
+}
+.bottom{
+    background-color: violet;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+}
